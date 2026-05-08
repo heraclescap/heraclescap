@@ -1,7 +1,6 @@
 # Hey, I'm heraclescap 👋
 
-Cybersecurity Passionate | Blue Team | Detection & Response
-
+Cybersecurity Passionate | Blue Team
 ---
 
 I work on Security Operations, building detection pipelines and
