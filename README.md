@@ -14,20 +14,20 @@ Currently preparing for CompTIA Security+, with BTL1 as the next target.
 
 | Skill | Associated Project |
 |---|---|
-| SIEM Deployment and Detection Rule Engineering | [wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) |
+| SIEM and Detection Rule Engineering | [wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) |
 | Security Automation and SOAR Orchestration | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
-| Threat Intelligence Integration | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
+| Threat Intelligence Operations | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
 | Incident Case Management | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
 | Observable Enrichment and IOC Analysis | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
-| Network Traffic Analysis and Intrusion Detection | CyberDefenders / BTLO Challenges |
-| Memory and Disk Forensics | CyberDefenders / BTLO Challenges |
-| Offensive Techniques and CTF Problem Solving | HackTheBox / Root-Me |
+| Network Forensics and Intrusion Analysis | [CyberDefenders](https://cyberdefenders.org) / [BTLO](https://blueteamlabs.online) |
+| Memory and Disk Forensics | [CyberDefenders](https://cyberdefenders.org) / [BTLO](https://blueteamlabs.online) |
+| Offensive Techniques and CTF Problem Solving | [HackTheBox](https://www.hackthebox.com) / [Root-Me](https://www.root-me.org) |
 
 ## Tools
 
 ### SIEM / XDR
 <div>
-  <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=Wazuh&logoColor=white" />
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
