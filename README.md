@@ -1,4 +1,4 @@
-# heraclescap
+# Hey, I'm heraclescap 👋
 
 Cybersecurity Passionate | Blue Team | Detection & Response
 
@@ -16,8 +16,8 @@ Currently preparing for CompTIA Security+, with BTL1 as the next target.
 |---|---|
 | SIEM Deployment and Detection Rule Engineering | [wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) |
 | Security Automation and SOAR Orchestration | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
-| Threat Intelligence Integration (OpenCTI, Cortex, MISP) | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
-| Incident Case Management (DFIR-IRIS, TheHive) | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
+| Threat Intelligence Integration | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
+| Incident Case Management | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
 | Observable Enrichment and IOC Analysis | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
 | Network Traffic Analysis and Intrusion Detection | CyberDefenders / BTLO Challenges |
 | Memory and Disk Forensics | CyberDefenders / BTLO Challenges |
