@@ -27,6 +27,7 @@ Currently preparing for CompTIA Security+, with BTL1 as the next target.
 ### SIEM / XDR
 <div>
   <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ELK-005571?&style=for-the-badge&logo=elasticstack&logoColor=white" />
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
@@ -34,7 +35,14 @@ Currently preparing for CompTIA Security+, with BTL1 as the next target.
 <div>
   <img src="https://img.shields.io/badge/-Shuffle-FF6B35?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-DFIR--IRIS-2C3E50?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TheHive-FFBA00?&style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TheHive5-FFBA00?&style=for-the-badge&logoColor=black" />
+</div>
+
+### Detection Engineering
+<div>
+  <img src="https://img.shields.io/badge/-Sigma-6A0DAD?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-YARA-FF8C00?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ### Threat Intelligence
@@ -44,7 +52,7 @@ Currently preparing for CompTIA Security+, with BTL1 as the next target.
   <img src="https://img.shields.io/badge/-MISP-1A6BB5?&style=for-the-badge&logoColor=white" />
 </div>
 
-### Network Analysis & IDS
+### Network Analysis
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -56,10 +64,16 @@ Currently preparing for CompTIA Security+, with BTL1 as the next target.
   <img src="https://img.shields.io/badge/-Autopsy-1F1F1F?&style=for-the-badge&logoColor=white" />
 </div>
 
-### Detection Engineering
+### Scripting
 <div>
-  <img src="https://img.shields.io/badge/-Sigma-6A0DAD?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-YARA-FF8C00?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+</div>
+
+### DevOps
+<div>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ## Certifications
