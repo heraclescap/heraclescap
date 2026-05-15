@@ -13,7 +13,7 @@ Currently preparing for CompTIA Security+, with BTL1 as the next target.
 
 | Skill | Associated Project |
 |---|---|
-| SIEM and Detection Rule Engineering | [wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) |
+| SIEM and Detection Rule Engineering | [sigwaz-cli](https://github.com/heraclescap/sigwaz-cli) / [wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) |
 | Security Automation and SOAR Orchestration | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
 | Threat Intelligence Operations | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
 | Incident Case Management | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
@@ -85,5 +85,6 @@ Currently preparing for CompTIA Security+, with BTL1 as the next target.
 
 ## Projects
 
-- [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) — End-to-end SOC pipeline: Wazuh alert ingestion, multi-source observable enrichment, automated DFIR-IRIS ticketing
-- [wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) — Custom Wazuh dashboards for SOC monitoring and detection coverage analysis
+- [sigwaz-cli](https://github.com/heraclescap/sigwaz-cli) — A high-precision Sigma-to-Wazuh rule converter featuring a robust CLI and a minimalist React web interface for multi-rule batch processing. Fully containerized, it streamlines detection engineering workflows by automating rule translation.
+- [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) — End-to-end SOC pipeline: Wazuh alert ingestion, multi-source observable enrichment, automated DFIR-IRIS ticketing.
+- [wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) — Custom Wazuh dashboards for SOC monitoring and detection coverage analysis.
