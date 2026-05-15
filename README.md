@@ -3,8 +3,10 @@
 Cybersecurity Passionate | Blue Team
 ---
 
-I work on Security Operations, building detection pipelines and investigating threats across network, endpoint, and intelligence layers.
-I train on CyberDefenders and BTLO to develop investigation and forensics skills, and on HackTheBox and Root-Me to stay sharp on the offensive side.
+I work on Security Operations, building detection pipelines and
+investigating threats across network, endpoint, and intelligence layers.
+I train on CyberDefenders and BTLO to develop investigation and forensics
+skills, and on HackTheBox and Root-Me to stay sharp on the offensive side.
 Currently preparing for CompTIA Security+, with BTL1 as the next target.
 
 ## Skills
