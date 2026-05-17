@@ -23,7 +23,7 @@ Currently preparing for CompTIA Security+, with BTL1 as the next target.
 
 ## Tools
 
-### SIEM / XDR
+### SIEM
 <div>
   <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-ELK-005571?&style=for-the-badge&logo=elasticstack&logoColor=white" />
