@@ -78,7 +78,7 @@ Currently preparing for CompTIA Security+, with BTL1 as the next target.
 ## Certifications
 
 <div>
-  <img src="https://img.shields.io/badge/-Security%2B_In_Progress-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-BTL1_Planned-4A90D9?&style=for-the-badge&logoColor=white" />
 </div>
 
