@@ -37,7 +37,7 @@ Currently preparing for CompTIA Security+, with BTL1 as the next target.
   <img src="https://img.shields.io/badge/-TheHive5-FFBA00?&style=for-the-badge&logoColor=black" />
 </div>
 
-### Detection Engineering
+### Detection Engineering & Threat Hunting
 <div>
   <img src="https://img.shields.io/badge/-Sigma-6A0DAD?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-YARA-FF8C00?&style=for-the-badge&logoColor=white" />
@@ -57,7 +57,7 @@ Currently preparing for CompTIA Security+, with BTL1 as the next target.
   <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
 
-### Digital Forensics
+### Digital Forensic
 <div>
   <img src="https://img.shields.io/badge/-Volatility-5C5C5C?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Autopsy-1F1F1F?&style=for-the-badge&logoColor=white" />
