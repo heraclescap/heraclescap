@@ -1,6 +1,6 @@
 # Hey, I'm heraclescap 👋
 
-Cybersecurity Passionate | Blue Team
+SOC Analyst & Lifelong Learner
 ---
 
 I work on Security Operations, building detection pipelines and
