@@ -1,6 +1,6 @@
 # Hey, I'm heraclescap 👋
 
-SOC Analyst & Lifelong Learner
+SOC Analyst & Perpetual Learner
 ---
 
 I work on Security Operations, building detection pipelines and
