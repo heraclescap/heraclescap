@@ -15,10 +15,10 @@ Currently CompTIA Security+ certified, with BTL1 as the next target.
 |---|---|
 | SIEM and Detection Rule Engineering | [sigwaz-cli](https://github.com/heraclescap/sigwaz-cli) / [sigwaz.com](https://sigwaz.com) / [wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) |
 | Security Automation and SOAR Orchestration | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
-| Threat Intelligence Operations | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) / [CyberDefenders](https://cyberdefenders.org) |
+| Threat Intelligence Operations | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) / [CyberDefenders](https://github.com/heraclescap/blueteam-writeups) |
 | Incident Case Management | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
-| Network Forensics and Intrusion Analysis | [CyberDefenders](https://cyberdefenders.org) / [BTLO](https://blueteamlabs.online) / [HackTheBox](https://www.hackthebox.com) |
-| Memory and Disk Forensics | [CyberDefenders](https://cyberdefenders.org) / [BTLO](https://blueteamlabs.online) / [HackTheBox](https://www.hackthebox.com) |
+| Network Forensics and Intrusion Analysis | [CyberDefenders](https://github.com/heraclescap/blueteam-writeups) / [BTLO](https://github.com/heraclescap/blueteam-writeups) / [HackTheBox](https://github.com/heraclescap/blueteam-writeups) |
+| Memory and Disk Forensics | [CyberDefenders](https://github.com/heraclescap/blueteam-writeups) / [BTLO](https://github.com/heraclescap/blueteam-writeups) / [HackTheBox](https://github.com/heraclescap/blueteam-writeups) |
 | Offensive Techniques and CTF Problem Solving | [HackTheBox](https://www.hackthebox.com) / [Root-Me](https://www.root-me.org) |
 
 ## Tools
