@@ -7,7 +7,7 @@ I work on Security Operations, building detection pipelines and
 investigating threats across network, endpoint, and intelligence layers.
 I train on CyberDefenders and BTLO to develop investigation and forensics
 skills, and on HackTheBox and Root-Me to stay sharp on the offensive side.
-Currently preparing for CompTIA Security+, with BTL1 as the next target.
+Currently CompTIA Security+ certified, with BTL1 as the next target.
 
 ## Skills
 
@@ -15,10 +15,10 @@ Currently preparing for CompTIA Security+, with BTL1 as the next target.
 |---|---|
 | SIEM and Detection Rule Engineering | [sigwaz-cli](https://github.com/heraclescap/sigwaz-cli) / [sigwaz.com](https://sigwaz.com) / [wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) |
 | Security Automation and SOAR Orchestration | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
-| Threat Intelligence Operations | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
+| Threat Intelligence Operations | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) / [CyberDefenders](https://cyberdefenders.org) |
 | Incident Case Management | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
-| Network Forensics and Intrusion Analysis | [CyberDefenders](https://cyberdefenders.org) / [BTLO](https://blueteamlabs.online) |
-| Memory and Disk Forensics | [CyberDefenders](https://cyberdefenders.org) / [BTLO](https://blueteamlabs.online) |
+| Network Forensics and Intrusion Analysis | [CyberDefenders](https://cyberdefenders.org) / [BTLO](https://blueteamlabs.online) / [HackTheBox](https://www.hackthebox.com) |
+| Memory and Disk Forensics | [CyberDefenders](https://cyberdefenders.org) / [BTLO](https://blueteamlabs.online) / [HackTheBox](https://www.hackthebox.com) |
 | Offensive Techniques and CTF Problem Solving | [HackTheBox](https://www.hackthebox.com) / [Root-Me](https://www.root-me.org) |
 
 ## Tools
@@ -57,10 +57,13 @@ Currently preparing for CompTIA Security+, with BTL1 as the next target.
   <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
 
-### Digital Forensic
+### Digital Forensics
 <div>
   <img src="https://img.shields.io/badge/-Volatility-5C5C5C?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Autopsy-1F1F1F?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FTK%20Imager-4A90D9?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Eric%20Zimmermann%20Tools-DC3545?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sysinternals%20Suite-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ### Scripting
@@ -88,3 +91,5 @@ Currently preparing for CompTIA Security+, with BTL1 as the next target.
 - [sigwaz.com](https://sigwaz.com) — The live web-based version of the SigWaz converter, providing a clean, minimalist React interface for instant in-browser rule translation.
 - [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) — End-to-end SOC pipeline: Wazuh alert ingestion, multi-source observable enrichment, automated DFIR-IRIS ticketing.
 - [wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) — Custom Wazuh dashboards for SOC monitoring and detection coverage analysis.
+- [blueteam-writeups](https://github.com/heraclescap/blueteam-writeups) — Detailed write-ups and case studies from CyberDefenders, BTLO, and HackTheBox challenges focusing on forensics, threat intelligence, malware analysis, and more.
+- [comptia-secplus-sy0-701-notes](https://github.com/heraclescap/comptia-secplus-sy0-701-notes) — Comprehensive study notes and exam preparation materials for CompTIA Security+ (SY0-701).
