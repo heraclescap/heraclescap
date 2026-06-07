@@ -54,11 +54,13 @@ Currently CompTIA Security+ certified, with BTL1 as the next target.
 ### Network Analysis
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
 
 ### Digital Forensics
 <div>
+  <img src="https://img.shields.io/badge/-KAPE-2E86AB?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Volatility-5C5C5C?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Autopsy-1F1F1F?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-FTK%20Imager-4A90D9?&style=for-the-badge&logoColor=white" />
