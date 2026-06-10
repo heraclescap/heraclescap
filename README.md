@@ -1,6 +1,6 @@
 # Hey, I'm Martin Caparros 👋
 
-SOC Analyst & Perpetual Learner
+SOC Analyst Apprentice & Perpetual Learner
 ---
 
 I work on Security Operations, building detection pipelines and
