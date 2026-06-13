@@ -94,3 +94,4 @@ Currently CompTIA Security+ certified, with BTL1 as the next target.
 - [wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) - Custom Wazuh dashboards for SOC monitoring and detection coverage analysis.
 - [blueteam-writeups](https://github.com/heraclescap/blueteam-writeups) - Detailed write-ups and case studies from CyberDefenders, BTLO, and HackTheBox challenges focusing on forensics, threat intelligence, malware analysis, and more.
 - [comptia-secplus-sy0-701-notes](https://github.com/heraclescap/comptia-secplus-sy0-701-notes) - Comprehensive study notes and exam preparation materials for CompTIA Security+ (SY0-701).
+- [soc-lab](https://github.com/heraclescap/soc-lab) - Personal SOC homelab built on ELK 8.19.16 and MISP 2.4 — documentation, configurations, and deployment guides for a self-hosted open source detection stack.
