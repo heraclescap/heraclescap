@@ -13,9 +13,9 @@ Currently CompTIA Security+ certified, with BTL1 as the next target.
 
 | Skill | Associated Project |
 |---|---|
-| SIEM and Detection Rule Engineering | [sigwaz-cli](https://github.com/heraclescap/sigwaz-cli) / [sigwaz.com](https://sigwaz.com) / [wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) |
+| SIEM and Detection Rule Engineering | [sigwaz-cli](https://github.com/heraclescap/sigwaz-cli) / [sigwaz.com](https://sigwaz.com) / [wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) / [soc-lab](https://github.com/heraclescap/soc-lab) / [soc-lab-detection-engineering](https://github.com/heraclescap/soc-lab-detection-engineering) |
 | Security Automation and SOAR Orchestration | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
-| Threat Intelligence Operations | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) / [CyberDefenders](https://github.com/heraclescap/blueteam-writeups) |
+| Threat Intelligence Operations | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) / [CyberDefenders](https://github.com/heraclescap/blueteam-writeups) / [soc-lab-detection-engineering](https://github.com/heraclescap/soc-lab-detection-engineering) |
 | Incident Case Management | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
 | Network Forensics and Intrusion Analysis | [CyberDefenders](https://github.com/heraclescap/blueteam-writeups) / [BTLO](https://github.com/heraclescap/blueteam-writeups) / [HackTheBox](https://github.com/heraclescap/blueteam-writeups) |
 | Memory and Disk Forensics | [CyberDefenders](https://github.com/heraclescap/blueteam-writeups) / [BTLO](https://github.com/heraclescap/blueteam-writeups) / [HackTheBox](https://github.com/heraclescap/blueteam-writeups) |
@@ -95,3 +95,4 @@ Currently CompTIA Security+ certified, with BTL1 as the next target.
 - [blueteam-writeups](https://github.com/heraclescap/blueteam-writeups) - Detailed write-ups and case studies from CyberDefenders, BTLO, and HackTheBox challenges focusing on forensics, threat intelligence, malware analysis, and more.
 - [comptia-secplus-sy0-701-notes](https://github.com/heraclescap/comptia-secplus-sy0-701-notes) - Comprehensive study notes and exam preparation materials for CompTIA Security+ (SY0-701).
 - [soc-lab](https://github.com/heraclescap/soc-lab) - Personal SOC homelab built on ELK 8.19.16 and MISP 2.4 : documentation, configurations, and deployment guides for a self-hosted open source detection stack.
+- [soc-lab-detection-engineering](https://github.com/heraclescap/soc-lab-detection-engineering) - Detection engineering case studies on the soc-lab homelab: ATT&CK-mapped attack simulations, custom KQL/EQL rule authoring where Elastic prebuilt rules fall short, and MISP-based Indicator Match correlation.
