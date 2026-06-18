@@ -88,11 +88,11 @@ Currently CompTIA Security+ certified, with BTL1 as the next target.
 
 ## Projects
 
+- [blueteam-writeups](https://github.com/heraclescap/blueteam-writeups) - Detailed write-ups and case studies from CyberDefenders, BTLO, and HackTheBox challenges focusing on forensics, threat intelligence, malware analysis, and more.
+- [soc-lab](https://github.com/heraclescap/soc-lab) - Personal SOC homelab built on ELK 8.19.16 and MISP 2.4 : documentation, configurations, and deployment guides for a self-hosted open source detection stack.
+- [soc-lab-detection-engineering](https://github.com/heraclescap/soc-lab-detection-engineering) - Detection engineering use cases on ELK 8.19.16 with custom KQL/EQL rules on Sysmon logs, threat intel correlation via MISP, documented ATT&CK coverage with limits and workarounds.
 - [sigwaz-cli](https://github.com/heraclescap/sigwaz-cli) - A high-precision Sigma-to-Wazuh rule converter built as a robust CLI tool for automated multi-rule batch processing.
 - [sigwaz.com](https://sigwaz.com) - The live web-based version of the SigWaz converter, providing a clean, minimalist React interface for instant in-browser rule translation.
 - [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) - End-to-end SOC pipeline: Wazuh alert ingestion, multi-source observable enrichment, automated DFIR-IRIS ticketing.
 - [wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) - Custom Wazuh dashboards for SOC monitoring and detection coverage analysis.
-- [blueteam-writeups](https://github.com/heraclescap/blueteam-writeups) - Detailed write-ups and case studies from CyberDefenders, BTLO, and HackTheBox challenges focusing on forensics, threat intelligence, malware analysis, and more.
 - [comptia-secplus-sy0-701-notes](https://github.com/heraclescap/comptia-secplus-sy0-701-notes) - Comprehensive study notes and exam preparation materials for CompTIA Security+ (SY0-701).
-- [soc-lab](https://github.com/heraclescap/soc-lab) - Personal SOC homelab built on ELK 8.19.16 and MISP 2.4 : documentation, configurations, and deployment guides for a self-hosted open source detection stack.
-- [soc-lab-detection-engineering](https://github.com/heraclescap/soc-lab-detection-engineering) - Detection engineering use cases on ELK 8.19.16 with custom KQL/EQL rules on Sysmon logs, threat intel correlation via MISP, documented ATT&CK coverage with limits and workarounds.
