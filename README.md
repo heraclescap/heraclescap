@@ -13,7 +13,7 @@ Currently CompTIA Security+ certified, with BTL1 as the next target.
 
 | Skill | Associated Project |
 |---|---|
-| SIEM and Detection Rule Engineering | [sigwaz-cli](https://github.com/heraclescap/sigwaz-cli) / [sigwaz.com](https://sigwaz.com) / [wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) / [soc-lab](https://github.com/heraclescap/soc-lab) / [soc-lab-detection-engineering](https://github.com/heraclescap/soc-lab-detection-engineering) |
+| SIEM and Detection Engineering | [sigwaz-cli](https://github.com/heraclescap/sigwaz-cli) / [sigwaz.com](https://sigwaz.com) / [wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) / [soc-lab](https://github.com/heraclescap/soc-lab) / [soc-lab-detection-engineering](https://github.com/heraclescap/soc-lab-detection-engineering) |
 | Security Automation and SOAR Orchestration | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
 | Threat Intelligence Operations | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) / [CyberDefenders](https://github.com/heraclescap/blueteam-writeups) / [soc-lab-detection-engineering](https://github.com/heraclescap/soc-lab-detection-engineering) |
 | Incident Case Management | [shuffle-soc-automation](https://github.com/heraclescap/shuffle-soc-automation) |
