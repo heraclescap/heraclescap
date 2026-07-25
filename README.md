@@ -63,7 +63,7 @@ Currently CompTIA Security+ certified, with BTL1 as the next target.
   <img src="https://img.shields.io/badge/-KAPE-2E86AB?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Volatility-5C5C5C?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Autopsy-1F1F1F?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Eric%20Zimmermann%20Tools-DC3545?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zimmermann%20Tools-DC3545?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Sysinternals%20Suite-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
