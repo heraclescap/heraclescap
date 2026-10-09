@@ -7,7 +7,7 @@ I work on Security Operations, building detection pipelines and
 investigating threats across network, endpoint, and intelligence layers.
 I train on CyberDefenders and BTLO to develop investigation and forensics
 skills, and on HackTheBox and Root-Me to stay sharp on the offensive side.
-Currently CompTIA Security+ certified, with BTL1 as the next target.
+Currently CompTIA Security+ and Blue Team Level 1 (BTL1) certified.
 
 ## Skills
 
@@ -83,7 +83,7 @@ Currently CompTIA Security+ certified, with BTL1 as the next target.
 
 <div>
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-BTL1_Planned-4A90D9?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-BTL1-4A90D9?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
